@@ -96,7 +96,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/post_count"
                         android:textSize="14sp"
-                        android:textColor="@color/grey" />
+                        android:textColor="@color/black" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -110,7 +110,7 @@
                         android:id="@+id/followers_count"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="1K"
+                        android:text="@string/default_follower_count"
                         android:textSize="16sp"
                         android:textColor="@color/black" />
 
@@ -118,9 +118,9 @@
                         android:id="@+id/followers_label"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Followers"
+                        android:text="@string/follower_count"
                         android:textSize="14sp"
-                        android:textColor="@color/grey" />
+                        android:textColor="@color/black" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -133,7 +133,7 @@
                         android:id="@+id/following_count"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="500"
+                        android:text="@string/default_follower_count"
                         android:textSize="16sp"
                         android:textColor="@color/black" />
 
@@ -141,9 +141,9 @@
                         android:id="@+id/following_label"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Following"
+                        android:text="@string/following_count"
                         android:textSize="14sp"
-                        android:textColor="@color/grey" />
+                        android:textColor="@color/black" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>

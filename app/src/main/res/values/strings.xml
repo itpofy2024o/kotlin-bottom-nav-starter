@@ -4,7 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="back_button">Back Button</string>
-    <string name="username">Username</string>
+    <string name="username">Fabian On the Run</string>
     <string name="setting_button">Setting Button</string>
     <string name="profile_thumbnail">Profile thumbnail</string>
     <string name="default_post_count">100</string>
@@ -13,4 +13,6 @@
     <string name="follower_count">followers</string>
     <string name="default_following_count">1040</string>
     <string name="following_count">following</string>
+    <string name="profile_description">This is the dairy of Ivy Young day to day life in NYC living her best life working as a dancer!!</string>
+    <string name="edit_profile">Edit Profile</string>
 </resources>

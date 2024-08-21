@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">Sofarsogood</string>
+    <string name="app_name">SoFarSoGood</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="back_button">Back button</string>
+    <string name="back_button">Back Button</string>
+    <string name="username">Username</string>
+    <string name="setting_button">Setting Button</string>
+    <string name="profile_thumbnail">Profile thumbnail</string>
 </resources>

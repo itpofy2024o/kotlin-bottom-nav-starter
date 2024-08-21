@@ -86,7 +86,7 @@
                         android:id="@+id/posts_count"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="100"
+                        android:text="@string/default_post_count"
                         android:textSize="16sp"
                         android:textColor="@color/black" />
 
@@ -94,7 +94,7 @@
                         android:id="@+id/posts_label"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Posts"
+                        android:text="@string/post_count"
                         android:textSize="14sp"
                         android:textColor="@color/grey" />
                 </LinearLayout>

@@ -7,4 +7,10 @@
     <string name="username">Username</string>
     <string name="setting_button">Setting Button</string>
     <string name="profile_thumbnail">Profile thumbnail</string>
+    <string name="default_post_count">100</string>
+    <string name="post_count">posts</string>
+    <string name="default_follower_count">40K</string>
+    <string name="follower_count">followers</string>
+    <string name="default_following_count">1040</string>
+    <string name="following_count">following</string>
 </resources>

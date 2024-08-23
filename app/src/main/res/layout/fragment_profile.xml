@@ -88,6 +88,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/default_post_count"
                         android:textSize="16sp"
+                        android:textStyle="bold"
                         android:textColor="@color/black" />
 
                     <TextView
@@ -96,6 +97,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/post_count"
                         android:textSize="14sp"
+                        android:textStyle="bold"
                         android:textColor="@color/black" />
                 </LinearLayout>
 
@@ -111,8 +113,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/default_follower_count"
-                        android:textSize="16sp"
-                        android:textColor="@color/black" />
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:textSize="16sp" />
 
                     <TextView
                         android:id="@+id/followers_label"
@@ -120,6 +123,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/follower_count"
                         android:textSize="14sp"
+                        android:textStyle="bold"
                         android:textColor="@color/black" />
                 </LinearLayout>
 
@@ -133,6 +137,7 @@
                         android:id="@+id/following_count"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:textStyle="bold"
                         android:text="@string/default_follower_count"
                         android:textSize="16sp"
                         android:textColor="@color/black" />
@@ -141,6 +146,7 @@
                         android:id="@+id/following_label"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:textStyle="bold"
                         android:text="@string/following_count"
                         android:textSize="14sp"
                         android:textColor="@color/black" />
@@ -156,6 +162,7 @@
             android:layout_marginTop="8dp"
             android:text="@string/profile_description"
             android:textColor="@color/black"
+            android:textStyle="italic"
             android:textSize="14sp" />
 
         <!-- Edit Profile Button -->
